@@ -38,6 +38,14 @@
 
 ---
 
+### 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code0871&theme=gruvbox" />
+</p>
+
+---
+
 ### 💬 Random Dev Quote
 
 <p align="center">
