@@ -1,6 +1,6 @@
 
 <p align="center">
-  <b>Rustacean 🦀 | Gopher 🐹 | Pythonista 🐍 | Linuxoid 🐧 | C# hater (sorry, not sorry)</b>
+  <b>Rustacean 🦀 | Gopher 🐹 | Pythonista 🐍 | Linuxoid 🐧 | </b>
 </p>
 
 ---
