@@ -31,8 +31,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code0871&show_icons=true&theme=gruvbox&hide_border=true" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code0871&layout=compact&theme=gruvbox&hide_border=true" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code0871&show_icons=true&theme=gruvbox&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code0871&layout=compact&theme=gruvbox&hide_border=true" height="200" />
 </p>
 
 ---
