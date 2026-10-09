@@ -57,8 +57,8 @@
 ### 📦 My public projects
 
 - 🧠 **[mindmap](https://github.com/Code0871/mindmap)** — Episodic memory database for RAG (Rust)
-- 📊 **[metrolog](https://github.com/Code0871/metrolog)** — Graduation from college diploma (Go)
-- **[CapGuard](https://github.com/Code0871/CapGuard)** - my personal reinvest system (I'll be reviewing the code and algorithms) (Python)
+- 📏 **[metrolog](https://github.com/Code0871/metrolog)** — Graduation from college diploma (Go)
+- 📈 **[CapGuard](https://github.com/Code0871/CapGuard)** - my personal reinvest system (I'll be reviewing the code and algorithms) (Python)
 <!-- - 🎵 **[music_platform](https://github.com/Code0871/music_platform)** — (Public) -->
 
 ---
